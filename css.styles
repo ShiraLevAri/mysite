@@ -1,0 +1,41 @@
+h1 {
+ text-align:center; 
+ font-family:david; 
+ font-size:40px; 
+ font-weight:bold; 
+ font-style:italic; 
+ color:black;
+}
+	
+h2 {
+ text-align:center; 
+ font-family:ariel; 
+ font-size:50px; 
+ font-style:italic; 
+ color:red;
+}
+
+body {
+ text-align: center;
+ background:cyan;
+}
+
+li {
+ dir: rtl;
+ text-align: center;
+}
+
+ul {
+ list-style-type: square;
+}
+
+a {
+ font-size:50px;
+}
+
+table {
+ border: 5px beige dotted;
+}
+td,th {
+ border: 2px red solid;
+}
